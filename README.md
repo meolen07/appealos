@@ -68,11 +68,11 @@ AppealOS is organized around one orchestrator and five specialist agents.
 
 ```text
 AppealOS Orchestrator Agent
-âââ Denial Interpreter Agent
-âââ Clinical Evidence Finder Agent
-âââ Policy Match Agent
-âââ Appeal Packet Writer Agent
-âââ Safety & Compliance Agent
+- Denial Interpreter Agent
+- Clinical Evidence Finder Agent
+- Policy Match Agent
+- Appeal Packet Writer Agent
+- Safety & Compliance Agent
 ```
 
 ### AppealOS Orchestrator Agent
@@ -160,7 +160,7 @@ The synthetic patient record includes:
 ### Appeal Readiness Score
 
 ```text
-82/100 â Medium-High readiness
+82/100 - Medium-High readiness
 ```
 
 This score estimates documentation completeness only. It does not determine medical necessity or guarantee payer approval.
