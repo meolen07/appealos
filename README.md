@@ -53,8 +53,6 @@ This project follows:
 
 The agent is configured directly inside the Prompt Opinion platform and published to the Prompt Opinion Marketplace.
 
-No custom MCP server is required for the MVP.
-
 ## How It Works
 
 AppealOS receives healthcare workflow context such as:
