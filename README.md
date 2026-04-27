@@ -212,7 +212,7 @@ appealos/
 └── assets/
     ├── appealos-logo.png
     └── appealos-poster.png
-
+```text
 ---
 ## Prompt Opinion Marketplace
 
